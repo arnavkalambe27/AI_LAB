@@ -1,9 +1,9 @@
 # 🤖 AI Practicals  
 
-🔹 **Student Name:** Sujal Junghare  
+🔹 **Student Name:** Arnav kalambe 
 🔹 **Semester:** VI  
 🔹 **Section:** C  
-🔹 **PRN:** 22070521089  
+🔹 **PRN:** 22070521097  
 
 ---
 
