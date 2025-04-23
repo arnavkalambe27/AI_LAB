@@ -1,5 +1,5 @@
-//Name-Sujal Junghare
-//PRN-22070521089
+//Name-Arnav kalambe
+//PRN-22070521097
 
 #include <stdbool.h>
 #include <stdio.h>
